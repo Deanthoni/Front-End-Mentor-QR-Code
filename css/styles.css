@@ -1,0 +1,55 @@
+.div {
+  background-color: #B8E8FC;
+  width:200px;
+  height:350px;
+  border: solid;
+  margin: 250px auto 0 auto;
+  position: relative;
+}
+
+body {
+  background-color: black;
+
+
+}
+
+.inner-div {
+  background-color: white;
+  width: 176px;
+  height:300px;
+  position: absolute;
+  top: 25px;
+  bottom: 25px;
+  left:13px;
+  right:13px;
+  border-radius: 10px;
+
+}
+
+img {
+  width: 165px;
+  position: absolute;
+  border-radius: 10px;
+  left: 19px;
+  top: 30px;
+  right: 19px
+}
+
+p {
+  position: absolute;
+  top: 190px;
+  left: 19px;
+  font-size: 15.5px;
+
+
+}
+
+.p2 {
+  color: Light-grey;
+  position:absolute;
+  font-size: 10px;
+  top: 250px;
+  text-align: center;
+  left: 21px;
+  width: 81%;
+}
